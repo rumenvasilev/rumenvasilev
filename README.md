@@ -5,7 +5,7 @@ I'm an opensource enthusiast currently in search of my next gig. Previously I've
 🔭 I’m currently working on a secret scanning tool called [rvsecret](https://github.com/rumenvasilev/rvsecret).
 
 ## Interests
-Golang, APIs, K8s, IaC, distributed systems, developer productivity tools
+Golang, APIs, K8s, IaC, distributed systems, developer productivity tools, platform engineering
 
 ## OSS
 I've contributed to a number of OSS projects over the years. Here're a few of them:
