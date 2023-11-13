@@ -10,6 +10,7 @@ Golang, APIs, K8s, IaC, distributed systems, developer productivity tools, platf
 ## OSS
 I've contributed to a number of OSS projects over the years. Here're a few of them:
 
+- [add pagination to GetCommit() call](https://github.com/integrations/terraform-provider-github/pull/2009)
 - [response code must be 204, because body has no content](https://github.com/opentofu/registry/pull/158)
 - [introduce unknown license list](https://github.com/goph/licensei/pull/75)
 - [fix error handling; unexport func](https://github.com/opentofu/registry/pull/100)
