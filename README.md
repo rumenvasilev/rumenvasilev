@@ -10,13 +10,13 @@ Golang, APIs, K8s, IaC, distributed systems, developer productivity tools, platf
 ## OSS
 I've contributed to a number of OSS projects over the years. Here're a few of them:
 
-- [add pagination to GetCommit() call](https://github.com/integrations/terraform-provider-github/pull/2009)
-- [response code must be 204, because body has no content](https://github.com/opentofu/registry/pull/158)
-- [introduce unknown license list](https://github.com/goph/licensei/pull/75)
-- [fix error handling; unexport func](https://github.com/opentofu/registry/pull/100)
-- [add data source alerting channel office365](https://github.com/gessnerfl/terraform-provider-instana/pull/151)
-- [send audience to tokenreview api](https://github.com/hashicorp/vault-plugin-auth-kubernetes/pull/74)
-- [Autodetect protocol from git address](https://github.com/git-hooks/git-hooks/pull/25)
+- [[integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github)]: [add pagination to GetCommit() call](https://github.com/integrations/terraform-provider-github/pull/2009)
+- [[opentofu/registry](https://github.com/opentofu/registry)]: [response code must be 204, because body has no content](https://github.com/opentofu/registry/pull/158)
+- [[github.com/goph/licensei](https://github.com/goph/licensei)]: [introduce unknown license list](https://github.com/goph/licensei/pull/75)
+- [[opentofu/registry](https://github.com/opentofu/registry)]: [fix error handling; unexport func](https://github.com/opentofu/registry/pull/100)
+- [[gessnerfl/terraform-provider-instana](https://github.com/gessnerfl/terraform-provider-instana)]: [add data source alerting channel office365](https://github.com/gessnerfl/terraform-provider-instana/pull/151)
+- [[hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes)]: [send audience to tokenreview api](https://github.com/hashicorp/vault-plugin-auth-kubernetes/pull/74)
+- [[git-hooks/git-hooks](https://github.com/git-hooks/git-hooks)]: [Autodetect protocol from git address](https://github.com/git-hooks/git-hooks/pull/25)
 
 I've also started a few OSS projects myself, but those you'd be able to find in my account. :)
 
