@@ -10,6 +10,7 @@ Golang, APIs, K8s, IaC, distributed systems, developer productivity tools, platf
 ## OSS
 I've contributed to a number of OSS projects over the years. Here're a few of them:
 
+- [[external-secrets/external-secrets](https://github.com/external-secrets/external-secrets)]: [remove redundant parameter grab call, we already have the data](https://github.com/external-secrets/external-secrets/pull/3722)
 - [[integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github)]: [add support for web commit sign off](https://github.com/integrations/terraform-provider-github/pull/2007)
 - [[integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github)]: [add pagination to GetCommit() call](https://github.com/integrations/terraform-provider-github/pull/2009)
 - [[opentofu/registry](https://github.com/opentofu/registry)]: [response code must be 204, because body has no content](https://github.com/opentofu/registry/pull/158)
